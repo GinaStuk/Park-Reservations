@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Capstone, Configuration: Debug Any CPU ------
+1>  Capstone -> C:\Users\Gina Stuk\Projects\pair projects\week6-team2-c-week6-pair-exercises\m2-csharp-capstone\Capstone\bin\Debug\Capstone.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
